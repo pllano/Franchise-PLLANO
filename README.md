@@ -4,11 +4,13 @@
 If you want to create your own trading platform on the PLLANO Marketplace engine, write to us at franchise@pllano.com mail, we will contact you as soon as possible.
 
 # Франшиза PLLANO
+## Создание собственной торговой платформы на движке PLLANO Marketplace
+Мы предлагаем вам создать свой собственный Marketplace на движке PLLANO
+
 Вы всегда можете ознакомится с возможностями платформы зарегистрировавшись на платформе [ua.pllano.com](https://ua.pllano.com/) или запросив у нас демо доступ.
 
 Напишите нам: franchise@pllano.com
-## Создание собственной торговой платформы на движке PLLANO Marketplace
-Мы предлагаем вам создать свой собственный Marketplace на движке PLLANO
+
 ## Предпосылки к получении франшизы:
 - У вас должна быть четкая стратегия выхода на рынок и бизнес план.
 - Бюджет на заупск и первых пол года работы.
