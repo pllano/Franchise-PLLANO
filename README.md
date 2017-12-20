@@ -46,13 +46,13 @@ PLLANO - дает возможность предоставлять своим �
 
 ## Бесплатные возможности
 Вы можете бесплатно использовать наши разработки с открытым исходным кодом
-### «API Shop»
+#### «API Shop»
 [«API Shop»](https://github.com/pllano/api-shop) — E-commerce Platform. Использует REST API сторонних платформ для хранения и обработки информации.
-### «APIS-2018»
+#### «APIS-2018»
 [«APIS-2018»](https://github.com/pllano/APIS-2018) — Стандарт обмена информацией между базами данных, торговыми платформами, интернет-магазинами, поставщиками товаров и сторонними платформами через RESTful API интерфейс.
-### «API json DB»
+#### «API json DB»
 [«API json DB»](https://github.com/pllano/api-json-db) — JSON база данных
-### «db.json»
+#### «db.json»
 [db.json](https://github.com/pllano/api-json-db) — Структура базы данных для интернет-магазина
 
 <a name="feedback"></a>
