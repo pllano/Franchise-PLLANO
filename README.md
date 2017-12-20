@@ -7,7 +7,7 @@ If you want to create your own Marketplace on the PLLANO engine, write to us at 
 ## Создание собственного Marketplace на движке PLLANO
 Мы предлагаем вам создать свой собственный Marketplace на движке PLLANO
 
-Вы всегда можете ознакомится с возможностями платформы зарегистрировавшись на платформе [ua.pllano.com](https://ua.pllano.com/) или запросив у нас демо доступ.
+Вы всегда можете ознакомится с возможностями платформы зарегистрировавшись на [ua.pllano.com](https://ua.pllano.com/) или запросив у нас демо доступ.
 
 Напишите нам: franchise@pllano.com
 
