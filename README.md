@@ -1,7 +1,7 @@
 # Franchise PLLANO
-## Creating your own trading platform on the PLLANO Marketplace engine
+## Creating your own Marketplace on the PLLANO engine
 ## Feedback
-If you want to create your own trading platform on the PLLANO Marketplace engine, write to us at franchise@pllano.com mail, we will contact you as soon as possible.
+If you want to create your own Marketplace on the PLLANO engine, write to us at franchise@pllano.com mail, we will contact you as soon as possible.
 
 # Франшиза PLLANO
 ## Создание собственной торговой платформы на движке PLLANO Marketplace
